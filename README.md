@@ -3,7 +3,7 @@
 Cada ejercicio estará en un branch con el nombre de la semana:
 * **semana3**: React con MobX
 
-Para clonar el repositorio en un branch específico deben agregar `-b nombreBranch` y se recomienda agragar al final `nombreCarpeta`.
+Para clonar el repositorio en un branch específico deben agregar `-b nombreBranch` y se recomienda agregar al final `nombreCarpeta`.
 
 Ejemplo: 
 ```bash
